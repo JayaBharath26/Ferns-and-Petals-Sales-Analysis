@@ -1,11 +1,13 @@
 # Ferns-and-Petals-Sales-Analysis
 
-Project Overview
+Project Overview:
+
 This project analyzes the sales data of Ferns and Petals (FNP), an online gifting platform that delivers products for occasions such as Valentine’s Day, Diwali, Raksha Bandhan, Birthdays, and Anniversaries. The objective of this project is to explore the dataset and build a sales analytics dashboard that provides insights into revenue trends, product performance, customer purchasing behavior, and delivery efficiency.
 The dashboard helps stakeholders understand key business metrics and identify opportunities to improve marketing strategies, product offerings, and operational efficiency.
 
 
-Business Problem
+Business Problem:
+
 Ferns and Petals wanted to better understand their sales patterns and customer behavior across different occasions and product categories. The analysis addresses the following business questions:
 •	Identify total revenue generated.
 •	Analyze average order and delivery time.
@@ -16,7 +18,8 @@ Ferns and Petals wanted to better understand their sales patterns and customer b
 •	Compare revenue generated across different occasions.
 
 
-Dataset Description
+Dataset Description:
+
 The dataset contains transactional records of customer orders and includes details such as:
 •	Order ID
 •	Product Name
@@ -29,7 +32,8 @@ The dataset contains transactional records of customer orders and includes detai
 •	Quantity
 
 
-Tools and Technologies
+Tools and Technologies:
+
 •	Microsoft Excel – Data cleaning and transformation
 •	Pivot Tables – Data aggregation and analysis
 •	Excel Charts – Data visualization
@@ -37,7 +41,8 @@ Tools and Technologies
 •	GitHub – Project documentation and version control
 
 
-Key Metrics (KPIs)
+Key Metrics (KPIs):
+
 •	Total Orders
 •	Total Revenue
 •	Average Customer Spending
@@ -47,7 +52,8 @@ Key Metrics (KPIs)
 •	Top Cities by Orders
 
 
-Key Insights
+Key Insights:
+
 •	Occasion-based sales such as Raksha Bandhan and anniversaries generate the highest revenue.
 •	Sales peak during festival seasons.
 •	Gift-oriented product categories perform better than standard items.
@@ -55,14 +61,16 @@ Key Insights
 •	Certain cities consistently place higher order volumes.
 
 
-Business Recommendations
+Business Recommendations:
+
 •	Increase marketing campaigns during peak gifting occasions.
 •	Promote top-performing products during seasonal events.
 •	Target high-demand cities with localized marketing campaigns.
 •	Improve delivery efficiency to enhance customer satisfaction.
 
 
-Project Workflow
+Project Workflow:
+
 1.	Data Collection
 2.	Data Cleaning
 3.	Data Transformation
@@ -71,7 +79,8 @@ Project Workflow
 6.	Business Insights Generation
 
    
-Skills Demonstrated
+Skills Demonstrated:
+
 •	Data Cleaning and Preparation
 •	Exploratory Data Analysis
 •	Pivot Table Analysis
@@ -79,7 +88,8 @@ Skills Demonstrated
 •	Business Insight Generation
 
 
-Author
+Author:
+
 Jayabharath Reddy Tippireddy
 This project was created as part of a data analytics portfolio project demonstrating Excel-based business intelligence and dashboard development skills.
 
